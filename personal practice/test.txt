@@ -1,0 +1,3 @@
+_pointer(), 
+
+I just used a write function, which have cleared the original contents.
