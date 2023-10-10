@@ -1,3 +1,4 @@
+
 #ifndef _Main_h_
 #define _Main_h_
 
@@ -9,7 +10,7 @@ void _puts(char *str);
 int _strlen(char *s);
 void rev_string(char *s);
 void puts2(char *str);
-
+void print_rev(char *s);
 
 
 #endif
