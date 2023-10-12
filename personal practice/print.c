@@ -42,7 +42,6 @@ void _nestedLoop(char *s){
         }
         i++;
     }
-
 }
 
 int main()
